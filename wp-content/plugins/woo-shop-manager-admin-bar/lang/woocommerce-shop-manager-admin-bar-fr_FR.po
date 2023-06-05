@@ -1,0 +1,263 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Shop Manager Admin Bar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-26 07:42+0000\n"
+"PO-Revision-Date: 2020-03-26 07:50+0000\n"
+"Last-Translator: kuldip <kuldip@zorem.com>\n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.4-RC4-47505"
+
+#: views/sma_admin_menu_tab.php:13
+msgid "Admin Bar Menu Items Visibility"
+msgstr ""
+"Visibilité des éléments du menu de la barre d'administration\n"
+
+#: views/sma_admin_menu_tab.php:24
+msgid "Page Builders"
+msgstr ""
+"Constructeurs de pages\n"
+
+#: views/sma_admin_menu_tab.php:153 views/sma_dashboard_tab.php:81
+#: views/sma_general_tab.php:40 views/sma_login_page_tab.php:86
+#: views/sma_login_page_tab.php:127 views/sma_woo_commerce_tab.php:68
+msgid "Save Changes"
+msgstr ""
+"Sauvegarder les modifications\n"
+
+#: views/sma_dashboard_tab.php:22
+msgid "WordPress Dashboard Widgets"
+msgstr ""
+"Widgets du tableau de bord WordPress\n"
+
+#: views/sma_dashboard_tab.php:34
+msgid "Show all WordPress dashboard panels."
+msgstr ""
+"Affichez tous les panneaux de tableau de bord WordPress.\n"
+
+#: views/sma_dashboard_tab.php:39
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#: views/sma_dashboard_tab.php:44
+msgid "WordPress Events and News"
+msgstr ""
+"WordPress Événements et Nouvelles\n"
+
+#: views/sma_dashboard_tab.php:49
+msgid "Quick Draft"
+msgstr ""
+"Brouillon rapide\n"
+
+#: views/sma_dashboard_tab.php:54
+msgid "At a Glance"
+msgstr ""
+"En un coup d'oeil\n"
+
+#: views/sma_dashboard_tab.php:59
+msgid "Activity"
+msgstr "Activité"
+
+#: views/sma_general_tab.php:12
+msgid "General Setting"
+msgstr ""
+"Réglage général\n"
+
+#: views/sma_general_tab.php:19
+msgid ""
+"Display shop manager menu in Admin toolbar\n"
+msgstr ""
+"Afficher le menu du gestionnaire de magasin dans la barre d'outils Admin\n"
+
+#: views/sma_general_tab.php:20
+msgid ""
+"Disable this option to hide the shop manager menu from the WordPress admin."
+msgstr ""
+"Désactivez cette option pour masquer le menu du gestionnaire de boutique de "
+"l'administrateur WordPress.\n"
+
+#: views/sma_general_tab.php:31
+msgid "Admin Footer Text"
+msgstr ""
+"Admin Footer Text\n"
+
+#: views/sma_general_tab.php:31
+msgid "Add Custom admin footer text to WordPress admin."
+msgstr ""
+"Ajoutez un texte de pied de page d'administration personnalisé à "
+"l'administrateur WordPress.\n"
+
+#: views/sma_login_page_tab.php:19
+msgid "Login Page Customize"
+msgstr ""
+"Page de connexion Personnaliser\n"
+
+#: views/sma_login_page_tab.php:26
+msgid "Upload Logo"
+msgstr ""
+"Télécharger le logo\n"
+
+#: views/sma_login_page_tab.php:26
+msgid "change custom logo in admin login page."
+msgstr ""
+"changer le logo personnalisé dans la page de connexion administrateur.\n"
+
+#: views/sma_login_page_tab.php:31
+msgid "Upload"
+msgstr "Télécharger"
+
+#: views/sma_login_page_tab.php:47
+msgid "Logo Width"
+msgstr ""
+"Logo Largeur\n"
+
+#: views/sma_login_page_tab.php:47
+msgid "set custom logo width and maximum limit of width is 320px."
+msgstr ""
+"définir la largeur du logo personnalisé et la limite maximale de largeur est "
+"de 320 pixels.\n"
+
+#: views/sma_login_page_tab.php:55
+msgid "Logo Bottom Margin"
+msgstr ""
+"Marge inférieure du logo\n"
+
+#: views/sma_login_page_tab.php:55
+msgid "Set Bottom margin of custom logo."
+msgstr ""
+"Définir la marge inférieure du logo personnalisé.\n"
+
+#: views/sma_login_page_tab.php:63
+msgid "Background color"
+msgstr ""
+"Couleur de l'arrière plan\n"
+
+#: views/sma_login_page_tab.php:63
+msgid "Change background color of login page."
+msgstr ""
+"Changer la couleur d'arrière-plan de la page de connexion.\n"
+
+#: views/sma_login_page_tab.php:71
+msgid "Font Color"
+msgstr ""
+"Couleur de la police\n"
+
+#: views/sma_login_page_tab.php:71
+msgid "Change font color in login page."
+msgstr ""
+"Changer la couleur de police dans la page de connexion.\n"
+
+#: views/sma_login_page_tab.php:79
+msgid "Login Page Footer Text"
+msgstr ""
+"Texte de pied de page de la page de connexion\n"
+
+#: views/sma_login_page_tab.php:79
+msgid "Add custom text to the footer of the login page."
+msgstr ""
+"Ajoutez du texte personnalisé au pied de page de la page de connexion.\n"
+
+#: views/sma_login_page_tab.php:95
+msgid "Login Form Customize"
+msgstr ""
+"Formulaire de connexion Personnaliser\n"
+
+#: views/sma_login_page_tab.php:102
+msgid "Login Box Label Color"
+msgstr ""
+"Couleur de l'étiquette de la boîte de connexion\n"
+
+#: views/sma_login_page_tab.php:102
+msgid "Change label font color in login form in login page."
+msgstr ""
+"Changez la couleur de police de l'étiquette dans le formulaire de connexion "
+"sur la page de connexion.\n"
+
+#: views/sma_login_page_tab.php:110
+msgid "Login Box Button Color"
+msgstr ""
+"Couleur du bouton de la boîte de connexion\n"
+
+#: views/sma_login_page_tab.php:110
+msgid "Change login buttom color in login form in login page."
+msgstr ""
+"Changez la couleur du bouton de connexion dans le formulaire de connexion de "
+"la page de connexion.\n"
+
+#: views/sma_login_page_tab.php:118
+msgid "Login Box Background Color"
+msgstr ""
+"Couleur de fond de la boîte de connexion\n"
+
+#: views/sma_login_page_tab.php:118
+msgid "Change background color of login form in login page."
+msgstr ""
+"Changer la couleur d'arrière-plan du formulaire de connexion dans la page de "
+"connexion.\n"
+
+#: views/sma_woo_commerce_tab.php:14
+msgid "WooCommerce Options"
+msgstr ""
+"Options de WooCommerce\n"
+
+#: views/sma_woo_commerce_tab.php:30
+msgid "Add Total Spend Column to users admin"
+msgstr ""
+"Ajouter la colonne Dépenses totales à l'administrateur des utilisateurs"
+
+#: views/sma_woo_commerce_tab.php:30
+msgid ""
+"Enable this option to add a \"Total Spend\" column in users admin.\n"
+msgstr ""
+"Activez cette option pour ajouter une colonne \"Total des dépenses\" dans "
+"l'admin des utilisateurs.\n"
+
+#: views/sma_woo_commerce_tab.php:41
+msgid "Add Order Count Column to users admin"
+msgstr "Ajouter une colonne de nombre de commandes aux utilisateurs admin"
+
+#: views/sma_woo_commerce_tab.php:41
+msgid ""
+"Enable this option to add \"Orders Count\" column in users admin\n"
+msgstr ""
+"Activez cette option pour ajouter la colonne \"Nombre de commandes\" dans "
+"l'administrateur des utilisateurs\n"
+
+#: views/sma_woo_commerce_tab.php:52
+msgid "Add order counts for order status"
+msgstr ""
+"Ajouter le nombre de commandes pour le statut de la commande\n"
+
+#: views/sma_woo_commerce_tab.php:52
+msgid "Enable this option to display order counts for order status."
+msgstr ""
+"Activez cette option pour afficher le nombre de commandes pour l'état de la "
+"commande.\n"
+
+#: views/sma_woo_commerce_tab.php:62
+msgid "Horizontal scroll in orders admin"
+msgstr ""
+"Défilement horizontal dans l'administration des commandes\n"
+
+#: views/sma_woo_commerce_tab.php:62
+msgid "Enable this option to add a Horizontal scroll in orders admin."
+msgstr ""
+"Activez cette option pour ajouter un défilement horizontal dans "
+"l'administration des commandes.\n"
+
+#. Description of the plugin
+msgid ""
+"Save time managing your WooCommerce shop! Shop Manager Admin adds a "
+"customizable WooCommerce quick-links menu to the WordPress admin bar "
+"(frontend & backend)."
+msgstr ""
+"Gagnez du temps dans la gestion de votre boutique WooCommerce! "
+"L'administrateur de Shop Manager ajoute un menu de liens rapides WooCommerce "
+"personnalisable à la barre d'administration WordPress (frontend et backend)."
+"\n"

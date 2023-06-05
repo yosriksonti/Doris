@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Shop Manager Admin Bar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-26 07:42+0000\n"
+"PO-Revision-Date: 2020-03-26 07:51+0000\n"
+"Last-Translator: kuldip <kuldip@zorem.com>\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.4-RC4-47505"
+
+#: views/sma_admin_menu_tab.php:13
+msgid "Admin Bar Menu Items Visibility"
+msgstr ""
+"פריטי תפריט בסרגל הניהול נראות\n"
+
+#: views/sma_admin_menu_tab.php:24
+msgid "Page Builders"
+msgstr ""
+"בוני דפים\n"
+
+#: views/sma_admin_menu_tab.php:153 views/sma_dashboard_tab.php:81
+#: views/sma_general_tab.php:40 views/sma_login_page_tab.php:86
+#: views/sma_login_page_tab.php:127 views/sma_woo_commerce_tab.php:68
+msgid "Save Changes"
+msgstr ""
+"שמור שינויים\n"
+
+#: views/sma_dashboard_tab.php:22
+msgid "WordPress Dashboard Widgets"
+msgstr ""
+"ווידג'טים של לוח המחוונים של וורדפרס\n"
+
+#: views/sma_dashboard_tab.php:34
+msgid "Show all WordPress dashboard panels."
+msgstr ""
+"הצג את כל לוחות לוח המחוונים של WordPress.\n"
+
+#: views/sma_dashboard_tab.php:39
+msgid "Welcome"
+msgstr ""
+"ברוך הבא\n"
+
+#: views/sma_dashboard_tab.php:44
+msgid "WordPress Events and News"
+msgstr ""
+"וורדפרס חדשות וחדשות\n"
+
+#: views/sma_dashboard_tab.php:49
+msgid "Quick Draft"
+msgstr ""
+"טיוטה מהירה\n"
+
+#: views/sma_dashboard_tab.php:54
+msgid "At a Glance"
+msgstr ""
+"במבט ראשון\n"
+
+#: views/sma_dashboard_tab.php:59
+msgid "Activity"
+msgstr ""
+"פעילות\n"
+
+#: views/sma_general_tab.php:12
+msgid "General Setting"
+msgstr ""
+"הגדרות כלליות\n"
+
+#: views/sma_general_tab.php:19
+msgid ""
+"Display shop manager menu in Admin toolbar\n"
+msgstr ""
+"הצג את תפריט מנהל החנות בסרגל הכלים של מנהל מערכת\n"
+
+#: views/sma_general_tab.php:20
+msgid ""
+"Disable this option to hide the shop manager menu from the WordPress admin."
+msgstr ""
+"השבת אפשרות זו כדי להסתיר את תפריט מנהל החנות ממנהל WordPress.\n"
+
+#: views/sma_general_tab.php:31
+msgid "Admin Footer Text"
+msgstr ""
+"טקסט תחתונה של מנהל מערכת\n"
+
+#: views/sma_general_tab.php:31
+msgid "Add Custom admin footer text to WordPress admin."
+msgstr ""
+"הוסף טקסט כותרת עליונה מותאם אישית למנהל מערכת וורדפרס.\n"
+
+#: views/sma_login_page_tab.php:19
+msgid "Login Page Customize"
+msgstr ""
+"התאמה אישית של דף הכניסה\n"
+
+#: views/sma_login_page_tab.php:26
+msgid "Upload Logo"
+msgstr ""
+"העלה לוגו\n"
+
+#: views/sma_login_page_tab.php:26
+msgid "change custom logo in admin login page."
+msgstr ""
+"שנה לוגו מותאם אישית בדף הכניסה למנהל.\n"
+
+#: views/sma_login_page_tab.php:31
+msgid "Upload"
+msgstr ""
+"העלה\n"
+
+#: views/sma_login_page_tab.php:47
+msgid "Logo Width"
+msgstr ""
+"רוחב הלוגו\n"
+
+#: views/sma_login_page_tab.php:47
+msgid "set custom logo width and maximum limit of width is 320px."
+msgstr ""
+"הגדר רוחב לוגו מותאם אישית וגבול הרוחב המרבי הוא 320 פיקסלים.\n"
+
+#: views/sma_login_page_tab.php:55
+msgid "Logo Bottom Margin"
+msgstr ""
+"שולי תחתית לוגו\n"
+
+#: views/sma_login_page_tab.php:55
+msgid "Set Bottom margin of custom logo."
+msgstr ""
+"הגדר את השוליים התחתונים של הלוגו המותאם אישית.\n"
+
+#: views/sma_login_page_tab.php:63
+msgid "Background color"
+msgstr ""
+"צבע רקע\n"
+
+#: views/sma_login_page_tab.php:63
+msgid "Change background color of login page."
+msgstr ""
+"שינוי צבע הרקע של דף הכניסה.\n"
+
+#: views/sma_login_page_tab.php:71
+msgid "Font Color"
+msgstr ""
+"צבע גופן\n"
+
+#: views/sma_login_page_tab.php:71
+msgid "Change font color in login page."
+msgstr ""
+"שינוי צבע הגופן בדף הכניסה.\n"
+
+#: views/sma_login_page_tab.php:79
+msgid "Login Page Footer Text"
+msgstr ""
+"טקסט כותרת תחתונה של דף כניסה\n"
+
+#: views/sma_login_page_tab.php:79
+msgid "Add custom text to the footer of the login page."
+msgstr ""
+"הוסף טקסט מותאם אישית לכותרת התחתונה של דף הכניסה.\n"
+
+#: views/sma_login_page_tab.php:95
+msgid "Login Form Customize"
+msgstr ""
+"טופס כניסה התאמה אישית\n"
+
+#: views/sma_login_page_tab.php:102
+msgid "Login Box Label Color"
+msgstr ""
+"צבע תווית כניסה\n"
+
+#: views/sma_login_page_tab.php:102
+msgid "Change label font color in login form in login page."
+msgstr ""
+"שנה את צבע הגופן של התווית בטופס ההתחברות בדף הכניסה.\n"
+
+#: views/sma_login_page_tab.php:110
+msgid "Login Box Button Color"
+msgstr ""
+"צבע כפתור תיבת כניסה\n"
+
+#: views/sma_login_page_tab.php:110
+msgid "Change login buttom color in login form in login page."
+msgstr ""
+"שנה את צבע הכניסה בצורת כניסה בדף הכניסה.\n"
+
+#: views/sma_login_page_tab.php:118
+msgid "Login Box Background Color"
+msgstr ""
+"צבע רקע של תיבת הכניסה\n"
+
+#: views/sma_login_page_tab.php:118
+msgid "Change background color of login form in login page."
+msgstr ""
+"שנה את צבע הרקע של טופס ההתחברות בדף הכניסה.\n"
+
+#: views/sma_woo_commerce_tab.php:14
+msgid "WooCommerce Options"
+msgstr ""
+"אפשרויות WooCommerce\n"
+
+#: views/sma_woo_commerce_tab.php:30
+msgid "Add Total Spend Column to users admin"
+msgstr ""
+"הוסף עמודת ההוצאה הכוללת למנהל המשתמשים\n"
+
+#: views/sma_woo_commerce_tab.php:30
+msgid ""
+"Enable this option to add a \"Total Spend\" column in users admin.\n"
+msgstr ""
+"אפשר אפשרות זו להוסיף עמודה \"סך ההוצאה\" במנהל המשתמשים.\n"
+
+#: views/sma_woo_commerce_tab.php:41
+msgid "Add Order Count Column to users admin"
+msgstr ""
+"הוסף עמודת ספירת הזמנה למנהלי המשתמשים\n"
+
+#: views/sma_woo_commerce_tab.php:41
+msgid ""
+"Enable this option to add \"Orders Count\" column in users admin\n"
+msgstr ""
+"אפשר אפשרות זו להוסיף עמודה \"ספירת הזמנות\" בניהול המשתמשים\n"
+
+#: views/sma_woo_commerce_tab.php:52
+msgid "Add order counts for order status"
+msgstr ""
+"הוסף ספירת הזמנות לסטטוס ההזמנה\n"
+
+#: views/sma_woo_commerce_tab.php:52
+msgid "Enable this option to display order counts for order status."
+msgstr ""
+"אפשר אפשרות זו להצגת ספירת הזמנות עבור מצב ההזמנה.\n"
+
+#: views/sma_woo_commerce_tab.php:62
+msgid "Horizontal scroll in orders admin"
+msgstr ""
+"גלילה אופקית בפקודות מנהל\n"
+
+#: views/sma_woo_commerce_tab.php:62
+msgid "Enable this option to add a Horizontal scroll in orders admin."
+msgstr ""
+"אפשר אפשרות זו להוסיף גלילה אופקית במנהל ההזמנות.\n"
+
+#. Description of the plugin
+msgid ""
+"Save time managing your WooCommerce shop! Shop Manager Admin adds a "
+"customizable WooCommerce quick-links menu to the WordPress admin bar "
+"(frontend & backend)."
+msgstr ""
+"חסוך זמן בניהול חנות WooCommerce שלך! מנהל חנות מנהל מוסיף תפריט קישורים "
+"מהירים של WooCommerce להתאמה אישית לסרגל הניהול של WordPress (חזיתית ואחורית)"
+".\n"

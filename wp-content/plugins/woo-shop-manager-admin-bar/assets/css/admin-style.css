@@ -1,0 +1,405 @@
+.sma-shop-manager-admin-setting div#wpcontent {
+   padding: 0;
+}
+.sma-shop-manager-admin-setting .main-title,
+.rtl .sma-shop-manager-admin-setting .main-title {
+    background: #fff;
+}
+.sma-shop-manager-admin-setting #tiptip_content {
+	background: #9b5c8f !important;	
+}
+.sma-shop-manager-admin-setting #tiptip_holder.tip_top #tiptip_arrow_inner {
+	border-top-color: #9b5c8f !important;
+}
+.sma-shop-manager-admin-setting #tiptip_holder.tip_bottom  #tiptip_arrow_inner {
+	border-bottom-color: #9b5c8f !important;
+}
+.sma-plugin-logo {
+    max-width: 400px;
+    padding: 15px 0px 15px 30px;
+}
+.rtl .sma-plugin-logo {
+    max-width: 400px;
+    padding: 15px 30px 15px 0px;
+}
+input.sma_tab_input:checked + label {
+    color: #072050;
+    border-bottom-color: #072050;
+    margin-bottom: -1px;
+}
+label.sma_tab_label.first_label {
+    margin-left: 30px;
+}
+.rtl label.sma_tab_label.first_label {
+    margin-right: 30px;
+    margin-left: 0;
+}
+label.sma_tab_label {
+    text-decoration: none;
+    padding: 17px 0 15px;
+    border-bottom: 2px solid #fff;
+    font-size: 14px;
+    color: #393f4c;
+    display: inline-block;
+    margin-right: 25px;
+    outline: none;
+    vertical-align: top;
+}
+input.sma_tab_input {
+    display: none;
+}
+.sma_tab_inner_container {
+    padding: 0;
+    display: table-cell;
+    vertical-align: top;
+}
+.sma_admin_setting_layout {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    margin: 0;
+    background: #f9f9f9;
+}
+.sma_admin_content {
+    width: 100%;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+    background: #fff;
+}
+.sma_admin_sidebar {
+    width: 280px;
+    display: table-cell;
+    vertical-align: top;
+    padding: 25px 0px 25px 30px;
+}
+.rtl .sma_admin_sidebar {
+    padding: 25px 30px 25px 0px;
+}
+#sma_dashboard_tab_form label,
+#sma_admin_menu_tab_form label {
+    width: 100%;
+	padding-left: 45px;
+	line-height: 1.5;
+	margin: .25em 0 .5em!important;
+}
+.rtl #sma_dashboard_tab_form label, .rtl #sma_admin_menu_tab_form label {
+    padding-right: 45px;
+}
+.sma_tab_inner_container .form-table .regular-input, .sma_tab_inner_container .form-table .select2 {
+    width: 100% !important;
+    max-width: 350px !important;
+}
+#sma_dashboard_tab_form label.panel-checkbox {
+    margin-left: 20px !important;
+}
+.rtl #sma_admin_menu_tab_form label.orders-checkbox,
+.rtl #sma_admin_menu_tab_form label.products-checkbox,
+.rtl #sma_admin_menu_tab_form label.coupons-checkbox,
+.rtl #sma_admin_menu_tab_form label.reports-checkbox,
+.rtl #sma_admin_menu_tab_form label.shop-settings-checkbox,
+.rtl #sma_admin_menu_tab_form label.pages-checkbox,
+.rtl #sma_admin_menu_tab_form label.posts-checkbox,
+.rtl #sma_admin_menu_tab_form label.contact-checkbox,
+.rtl #sma_dashboard_tab_form label.panel-checkbox
+ {
+    margin-right: 20px !important;
+}
+.rtl .mdl-switch__thumb {
+    transition-property: right;
+    right: 0;
+}
+.rtl .mdl-switch.is-checked .mdl-switch__thumb {
+    right: 16px;
+}
+.rtl .mdl-switch__track {
+	right: 0;
+}
+.sma_tab_inner_container .woocommerce-help-tip {
+    color: #072050 !important;
+}
+.sma-sidebar__section {
+    padding: 0;
+    background: #fff;
+    border: 1px solid #eee;
+    margin-bottom: 10px;
+}
+.sma-sidebar__section li {
+    list-style: none;
+}
+.sma-sidebar__section ul {
+    position: relative;
+    margin: 10px 10px 10px 15px;
+}
+.sma_admin_sidebar .sma_launch p, .sma_admin_sidebar .sma_launch a {
+    margin: 10px 10px 10px 15px;
+}
+.sma_nav_doc_section {
+    float: right;
+    padding: 15px 0 15px;
+    margin-right: 30px;
+}
+.rtl .sma_nav_doc_section {
+    float: left;
+    margin-left: 30px;
+}
+.sma-sidebar__section li img.plugin_thumbnail {
+    width: 60px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.sma-sidebar__section li a.plugin_url {
+    width: 70%;
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 10px;
+    line-height: 20px;
+}
+.rtl .sma-sidebar__section li a.plugin_url {
+    margin-right: 10px;
+    margin-left: 0;
+}
+.woocommerce.sma_admin_layout table.form-table {
+    background: #fff;
+    border: 1px solid #eee;
+    margin-top: 0;
+    margin-bottom: 0px;
+    box-shadow: none;
+}
+.sma_tab_inner_container .form-table td {
+    padding: 20px 24px 20px 15px;
+}
+.woocommerce.sma_admin_layout table.form-table.heading-table {
+    margin: 25px 0 0;
+    border-bottom: 0;
+}
+.sma_tab_inner_container table.form-table tr {
+    border-bottom: 1px solid #eee;
+}
+.woocommerce.sma_admin_layout table.form-table.heading-table h3 {
+    margin: 0;
+    color: #072050;
+    line-height: 1.3;
+}
+.sma_tab_inner_container .form-table th {
+    padding: 20px 24px 20px 15px;
+    width: 40%;
+}
+#sma_woocommerce_tab_form .form-table th,
+#sma_general_tab_form .form-table th {
+    width: 50%;
+}
+#sma_dashboard_tab_form .form-table th,
+#sma_login_tab_form .form-table th {
+    width: 40%;
+}
+#sma_admin_menu_tab_form .form-table th {
+    width: 20%;
+}
+.submit.sma-btn {
+    background: #fff;
+    border: 1px solid #eee;
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding: 15px;
+    border-top: 0;
+}
+.sma-btn .button-primary {
+    background: #072050;
+    text-shadow: none;
+    border-color: #072050;
+    box-shadow: none;
+    font-size: 14px;
+    line-height: 32px;
+    height: 35px;
+    padding: 0 20px;
+}
+.sma-btn .button-primary:hover, .sma-btn .button-primary:focus {
+    background: #072050 !important;
+    border-color: rgba(0,0,0,0.05) !important;
+    color: #fff !important;
+    text-shadow: none !important;
+    box-shadow: inset 0 0 0 100px rgba(0,0,0,0.2) !important;
+}
+.sma_admin_layout .sma_admin_sidebar h3 {
+    margin: 0 0 1em 0;
+    background: #fff;
+    color: #072050;
+    border-bottom: 1px solid #eee;
+    padding: 15px 15px;
+}
+#tab1:checked ~ #sma_content1,
+#tab2:checked ~ #sma_content2,
+#tab3:checked ~ #sma_content3,
+#tab4:checked ~ #sma_content4,
+#tab5:checked ~ #sma_content5 {
+	display: block;
+}
+section.sma_tab_section {
+    display: none;
+    padding: 0 30px 30px;
+    border-top: 1px solid #ddd;
+    background: rgb(245, 248, 250);
+}
+.sma-thumbnail-image img {
+    position: relative;
+    max-width: 70px;
+    max-height: 70px;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    vertical-align: bottom;
+}
+.sma-thumbnail-image #remove {
+    vertical-align: bottom;
+    margin-bottom: 5px;
+    padding: 0px 5px;
+    height: 22px;
+    line-height: 20px;
+}
+.wp-core-ui .btn_green {
+    background: #071d57;
+    text-shadow: none;
+    border-color: #071d57;
+    box-shadow: none;
+    font-size: 14px;
+    line-height: 30px;
+    height: 32px;
+}
+.wp-core-ui .btn_green:hover, .wp-core-ui .btn_green:focus {
+    background: rgb(35, 54, 152);
+    border-color: rgba(0,0,0,0.05);
+    color: #fff;
+    text-shadow: none;
+    box-shadow: inset 0 0 0 100px rgba(0,0,0,0.2);
+}
+#sma-toast-example.mdl-snackbar {
+    background: #072050;
+    z-index: 100000;
+    bottom: 10px;
+}
+#sma-toast-example .mdl-snackbar__text {
+    float: unset;
+    width: 100%;
+    text-align: center;
+}
+.spinner.active {
+    visibility: visible;
+}
+#login_footer_note .footer-text {
+    text-align: center;
+	margin: 30px auto;
+}
+.sma-shop-manager-admin-setting .form-table td span.select2,
+.sma-shop-manager-admin-setting .form-table .regular-text {
+    width: 100% !important;
+    max-width: 350px !important;
+}
+.sma_tab_inner_container .form-table .textfield-media {
+    width: 100%;
+    max-width: 300px;
+}
+#upload_image_button {
+    height: 32px;
+    background: #072050;
+    border: #072050;
+    color: #fff;
+    width: 70px;
+}
+#upload_image_button:hover, #upload_image_button:focus {
+    background: #072050 !important;
+    border-color: rgba(0,0,0,0.05) !important;
+    color: #fff !important;
+    text-shadow: none !important;
+    box-shadow: inset 0 0 0 100px rgba(0,0,0,0.2) !important;
+}
+.sma-thumbnail-image {
+    margin-top: 5px;
+}
+.login-form-header {
+    padding-top: 15px !important;
+}
+.sma_admin_content .woocommerce-help-tip.tipTip {
+    margin: 2px !important;
+    position: relative !important;
+}
+.sma_tab_inner_container .woocommerce-help-tip::after {
+    font-size: 20px;
+    top: -4px;
+}
+.sma_tab_inner_container .form-table fieldset {
+    line-height: 2;
+}
+@media screen and (max-width: 900px){
+.sma-shop-manager-admin-setting .form-table td span.select2,
+.sma-shop-manager-admin-setting .form-table .regular-text,
+input#image_path {
+		width: 100% !important;
+	    min-width: auto !important;
+}
+}
+@media screen and (max-width: 768px){
+.sma_admin_content, .sma_admin_sidebar {
+    width: auto;
+    display: block;
+}
+#sma_woocommerce_tab_form .form-table td {
+    display: flex;
+}
+#sma_admin_menu_tab_form .form-table td {
+    display: table-cell;
+}
+#sma_admin_menu_tab_form .form-table th {
+    width: auto;
+}
+
+sma_admin_setting_layout{
+	display:block !important;	
+}
+.sma-shop-manager-admin-setting .form-table th {
+    width: 44%;
+    float: left;
+}
+.sma-shop-manager-admin-setting.rtl .form-table th {
+    float: right;
+}
+#sma_woocommerce_tab_form table.form-table td {
+	float:left;
+}
+}
+.sma-shop-manager-admin-setting .form-table .logo-size {
+	width: 5em !important;
+}
+.wp-color-result-text {
+    border-right: 1px solid #ccc;
+}
+input.wp-color-picker {
+    width: auto !important;
+}
+.sma_tab_inner_container .mdl-switch.is-checked .mdl-switch__thumb {
+    background: #9b5c8f !important;
+}
+.sma_tab_inner_container .mdl-switch.is-checked .mdl-switch__track {
+    background: #aba9c4 !important;
+}
+.sma_tab_inner_container .mdl-tabs__tab-bar {
+    justify-content: left;
+    background: #fff;
+    border: 1px solid #eee;
+}
+a.mdl-tabs__tab:focus {
+    box-shadow: none !important;
+}
+a.mdl-tabs__tab:hover {
+    color: #072050;
+}
+a.mdl-tabs__tab {
+	text-transform: capitalize;
+    padding: 0 15px;
+}
+a.mdl-tabs__tab.is-active {
+    color: #072050 !important;
+}
+#sma_woocommerce_tab_form table.form-table td.forminp {
+    width: 15px;
+    padding-left: 30px;
+}
